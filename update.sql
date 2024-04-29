@@ -126,6 +126,3 @@ UPDATE customers
 UPDATE customers
 	SET cust_email = 'hello@napoleon.me'
     WHERE cust_id = 30001;
-    
-DELETE FROM cars
-	WHERE id = 4;
